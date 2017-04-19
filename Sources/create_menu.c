@@ -116,6 +116,7 @@ void my_menus(void)
 	new_entry("Max Spirit Bar", spiritbar);
 	new_entry("Fast Great Sword Charge", greatsword);
 	new_entry("Bowgun Auto Reload", bowgun);
+	new_entry("Unlimited bullets squat mode", squat);
 	new_entry("100% Affinity", affinity);
 	new_entry("Infinite Items In-Quest", items);
 	new_entry("Autotracker", autotracker);

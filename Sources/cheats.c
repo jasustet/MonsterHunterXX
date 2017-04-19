@@ -314,6 +314,11 @@ void	bowgun(void)
 	WRITEU32(0x002F97A0, 0xE5C407D3);
 }
 
+void	squat(void)
+{
+	WRITEU32(0x00A7BEC8, 0xE5C0101A);
+}
+
 void	affinity(void)
 {
 	WRITEU32(0x008ED510, 0xE3A000C8);

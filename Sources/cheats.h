@@ -43,6 +43,7 @@ void	bravegauge(void);
 void	spiritbar(void);
 void	greatsword(void);
 void	bowgun(void);
+void	squat(void);
 void	affinity(void);
 void	items(void);
 void	autotracker(void);
